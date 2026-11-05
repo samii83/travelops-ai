@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Destination: Goa",
+    "source": "goa_guide.txt"
+  },
+  {
+    "text": "Goa is a coastal destination in western India. It is known for beaches, Portuguese heritage, markets, seafood and nightlife.",
+    "source": "goa_guide.txt"
+  },
+  {
+    "text": "Popular attractions:\n- Baga Beach: A popular beach destination.\n- Fort Aguada: A historic Portuguese-era fort.\n- Basilica of Bom Jesus: A historic church and heritage site.\n- Dudhsagar Falls: A major waterfall attraction.\n- Anjuna Flea Market: A popular shopping market.",
+    "source": "goa_guide.txt"
+  },
+  {
+    "text": "Suggested travel themes:\n- Beach holidays\n- Heritage sightseeing\n- Nature trips\n- Shopping\n- Nightlife",
+    "source": "goa_guide.txt"
+  },
+  {
+    "text": "Travel planning notes:\n- A five-day trip can include beaches, heritage sightseeing, nature and shopping.\n- Travel times and attraction access depend on the season and transport arrangements.\n- This document is general destination information, not a confirmation of opening hours, ticket prices or availability.",
+    "source": "goa_guide.txt"
+  },
+  {
+    "text": "TravelOps AI - Demonstration Travel Policies",
+    "source": "travel_policies.txt"
+  },
+  {
+    "text": "1. Pricing\nAll prices in the demonstration dataset are illustrative estimates.\nThey are not live quotes, confirmed supplier rates or booking prices.",
+    "source": "travel_policies.txt"
+  },
+  {
+    "text": "2. Hotel accommodation\nHotel prices are stored per room per night.\nThe demonstration budget calculator assumes up to two travelers per room.\nActual room occupancy and availability must be confirmed with the supplier.",
+    "source": "travel_policies.txt"
+  },
+  {
+    "text": "3. Transportation\nTransportation estimates are based on the origin and destination entries available in the dataset.\nIf a route is unavailable, the system must report that no estimate is available.\nIt must not invent a transport price.",
+    "source": "travel_policies.txt"
+  },
+  {
+    "text": "4. Food\nFood estimates are calculated per person per day.",
+    "source": "travel_policies.txt"
+  },
+  {
+    "text": "5. Activities\nActivity costs are stored per person.\nFree attractions have an estimated cost of zero.\nDo not claim that guided tours, tickets or other services are included unless the source explicitly says so.",
+    "source": "travel_policies.txt"
+  },
+  {
+    "text": "6. Availability\nThe system does not have live hotel, flight, transport or attraction availability.\nAll quotations must clearly state this limitation.",
+    "source": "travel_policies.txt"
+  },
+  {
+    "text": "7. Budget\nThe total estimate must be calculated using the budget calculator.\nDo not rely on language-model arithmetic for financial totals.",
+    "source": "travel_policies.txt"
+  }
+]

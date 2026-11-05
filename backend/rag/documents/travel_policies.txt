@@ -1,0 +1,32 @@
+
+TravelOps AI - Demonstration Travel Policies
+
+1. Pricing
+All prices in the demonstration dataset are illustrative estimates.
+They are not live quotes, confirmed supplier rates or booking prices.
+
+2. Hotel accommodation
+Hotel prices are stored per room per night.
+The demonstration budget calculator assumes up to two travelers per room.
+Actual room occupancy and availability must be confirmed with the supplier.
+
+3. Transportation
+Transportation estimates are based on the origin and destination entries available in the dataset.
+If a route is unavailable, the system must report that no estimate is available.
+It must not invent a transport price.
+
+4. Food
+Food estimates are calculated per person per day.
+
+5. Activities
+Activity costs are stored per person.
+Free attractions have an estimated cost of zero.
+Do not claim that guided tours, tickets or other services are included unless the source explicitly says so.
+
+6. Availability
+The system does not have live hotel, flight, transport or attraction availability.
+All quotations must clearly state this limitation.
+
+7. Budget
+The total estimate must be calculated using the budget calculator.
+Do not rely on language-model arithmetic for financial totals.

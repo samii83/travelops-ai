@@ -1,0 +1,57 @@
+{
+  "Goa": {
+    "description": "Coastal destination known for beaches, nightlife, Portuguese heritage and seafood.",
+    "best_for": ["beaches", "couples", "nightlife", "sightseeing"],
+    "attractions": [
+      {
+        "name": "Baga Beach",
+        "type": "beach",
+        "estimated_cost_per_person": 0
+      },
+      {
+        "name": "Fort Aguada",
+        "type": "heritage",
+        "estimated_cost_per_person": 50
+      },
+      {
+        "name": "Basilica of Bom Jesus",
+        "type": "heritage",
+        "estimated_cost_per_person": 0
+      },
+      {
+        "name": "Dudhsagar Falls",
+        "type": "nature",
+        "estimated_cost_per_person": 1200
+      },
+      {
+        "name": "Anjuna Flea Market",
+        "type": "shopping",
+        "estimated_cost_per_person": 0
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Goa Budget Stay",
+        "category": "budget",
+        "price_per_night": 1200
+      },
+      {
+        "name": "Goa Comfort Resort",
+        "category": "comfortable",
+        "price_per_night": 2500
+      },
+      {
+        "name": "Goa Premium Resort",
+        "category": "luxury",
+        "price_per_night": 5500
+      }
+    ],
+    "estimated_transport": {
+      "Bhubaneswar": 6500,
+      "Delhi": 7000,
+      "Mumbai": 2500
+    },
+    "estimated_food_per_person_per_day": 500,
+    "estimated_local_transport_per_trip": 3000
+  }
+}
